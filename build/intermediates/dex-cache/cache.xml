@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_github\DiscView-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\android_github\DiscView-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_0c7967beef711a98917ce665341f2a529c64e03c.jar" />
+    </item>
+    <item
+        jar="D:\android_github\DiscView-master\app\build\intermediates\exploded-aar\DiscView-master\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7a84e920c3e988453bcb8d430e0265e2338ef4ac">
+        <dex dex="D:\android_github\DiscView-master\app\build\intermediates\pre-dexed\debug\DiscView-master-library-unspecified_70a3ce7d30cfacc01dee42290abcc926e1788c8f.jar" />
+    </item>
+    <item
+        jar="D:\android_github\DiscView-master\app\build\intermediates\exploded-aar\DiscView-master\library\unspecified\jars\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="827f6f6489c4b6d95ff1f327030561350f08ce9a">
+        <dex dex="D:\android_github\DiscView-master\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_6915a1baab200ce66ea184f1b95b2f6cf430d8e9.jar" />
+    </item>
+    <item
+        jar="D:\android_github\DiscView-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\android_github\DiscView-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_66205ccff0091a4fe18f25450a6b9e72ebbc3c07.jar" />
+    </item>
+    <item
+        jar="F:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\android_github\DiscView-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_52c6c6b9f44284189316a09bc85f874764965bd2.jar" />
+    </item>
+    <item
+        jar="D:\android_github\DiscView-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\android_github\DiscView-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_585da07638f3d2ec182713c7586310d12ffbf1e2.jar" />
+    </item>
+
+</items>
